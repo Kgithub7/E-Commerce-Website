@@ -422,6 +422,17 @@ footer {
   }
 }
 
+/* BOOKS */
+
+.books__header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 24px;
+}
+
+
+
 /* SMALL PHONES, LARGE SMARTPHONES */
 @media (max-width: 550px) {
   .nav__links {
